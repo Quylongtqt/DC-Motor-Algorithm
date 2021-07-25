@@ -1,0 +1,10 @@
+.\objects\lqr_data.o: Matlab_LQR\lqr_data.c
+.\objects\lqr_data.o: Matlab_LQR\lqr.h
+.\objects\lqr_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lqr_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\lqr_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lqr_data.o: Matlab_LQR\rtwtypes.h
+.\objects\lqr_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\lqr_data.o: Matlab_LQR\rt_SATURATE.h
+.\objects\lqr_data.o: Matlab_LQR\lqr_types.h
+.\objects\lqr_data.o: Matlab_LQR\lqr_private.h
