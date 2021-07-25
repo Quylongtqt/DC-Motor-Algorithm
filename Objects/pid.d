@@ -1,9 +1,0 @@
-.\objects\pid.o: Matlab\pid.c
-.\objects\pid.o: Matlab\pid.h
-.\objects\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\pid.o: Matlab\rtwtypes.h
-.\objects\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
-.\objects\pid.o: Matlab\rt_SATURATE.h
-.\objects\pid.o: Matlab\pid_types.h
-.\objects\pid.o: Matlab\pid_private.h
